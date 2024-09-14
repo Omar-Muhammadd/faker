@@ -123,10 +123,6 @@ h1 {
         padding-top: 200px;
         
     }
-    .img {
-        width: 80%; 
-    }
-
     h1 {
         font-size: 20px; 
         letter-spacing: 1px; 
@@ -150,10 +146,6 @@ h1 {
     .container {
         width: 100%;
         padding-top: 200px;
-    }
-
-    .img {
-        width: 100%;
     }
 
     h1 {
